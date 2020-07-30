@@ -10,5 +10,5 @@ The assignments are focussed on the following topics:
 4. Solving Constraint Satisfaction Problem using backtracking and AC3 algorithms.
 5. Computing conditional probabilities in a Bayesian Network.
 
-Each assignment focusses on implementing the entire solution from scratch, with a strong emphasis on analysis of space and time complexity for each algorithm. Also, each solution contains a graphical-user interface for ease of use in choosing different options for running different algorithms.
+**Note**: Each assignment focusses on implementing the entire solution **from scratch**, with a strong emphasis on analysis of **space and time complexity** for each algorithm. Also, each solution contains a **graphical-user interface** for ease of use in choosing different options for running different algorithms.
 
