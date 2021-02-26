@@ -1,5 +1,11 @@
 # AI_Assignment_2
 
+## Introduction/Problem Statement:
+
+The given problem asks to use **heuristic search algorithms (like hill climbing and simulated annealing)** to play minesweeper game. More details can be found in `Programming assignment 2.pdf`.
+
+## File Description:
+
 This folder contains my solution for assignment 2 of on-campus Artificial Intelligence (BITS F444) course. The file description is as follows:
 
 1. `Programming assignment 2.pdf`: It contains the problem statement, and functionalities to be included in the solution. It also specifies the design of the GUI interface.
@@ -14,9 +20,6 @@ This code requires Python3.7 and PyQt5. To run it, use the command:
 ```sh
 python GUI.py
 ``` 
-## Introduction/Problem Statement:
-
-The given problem asks to use **heuristic search algorithms (like hill climbing and simulated annealing)** to play minesweeper game. More details can be found in `Programming assignment 2.pdf`.
 
 ## GUI Details:
 The overall GUI layout is as shown below.
