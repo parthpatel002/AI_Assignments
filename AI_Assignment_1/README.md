@@ -14,7 +14,7 @@ python main.py
 
 ## Introduction/Problem Statement:
 
-The given problem asks to find the optimal path that should be followed by a vacuum cleaner (starting from a given random position) in a `N*N (N=10)` room to clean all the dirty tiles and rest at any one corner of the room. The cost of moving `1` step (`MR,ML,MU,MD`) is `2` units, and cost to clean a tile is `1` unit. We have to use uninformed search techniques like BFS and IDS to solve the problem.
+The given problem asks to find the optimal path that should be followed by a vacuum cleaner (starting from a given random position) in a `N*N (N=10)` room to clean all the dirty tiles and rest at any one corner of the room. The cost of moving `1` step (`MR,ML,MU,MD`) is `2` units, and cost to clean a tile is `1` unit. We have to use **uninformed search techniques like BFS and IDS** to solve the problem.
 
 ## State Representation:
 
