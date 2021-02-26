@@ -16,7 +16,7 @@ python GUI.py
 ``` 
 ## Introduction/Problem Statement:
 
-`Programming assignment 4.pdf` describes a constraint satisfaction problem (CSP). The problem task is to use DFS-backtracking and DFS-backtracking with AC3 algorithms to solve the CSP or report that the CSP has no solution. Space and time complexity comparison between DFS-backtracking and DFS-backtracking with AC3 algorithms is also performed.
+`Programming assignment 4.pdf` describes a **constraint satisfaction problem (CSP)**. The problem task is to use **DFS-backtracking** and **DFS-backtracking with AC3 algorithms** to solve the CSP or report that the CSP has no solution. **Space and time complexity comparison between DFS-backtracking and DFS-backtracking with AC3 algorithms is also performed.**
 
 ## GUI Details:
 The overall GUI layout is as shown below.
