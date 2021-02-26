@@ -16,7 +16,7 @@ python GUI.py
 ``` 
 ## Introduction/Problem Statement:
 
-The given problem asks to use heuristic search algorithms (like hill climbing and simulated annealing) to play minesweeper game. More details can be found in `Programming assignment 2.pdf`.
+The given problem asks to use **heuristic search algorithms (like hill climbing and simulated annealing)** to play minesweeper game. More details can be found in `Programming assignment 2.pdf`.
 
 ## GUI Details:
 The overall GUI layout is as shown below.
