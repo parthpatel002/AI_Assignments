@@ -4,7 +4,7 @@
 
 The given problem asks to find the optimal path that should be followed by a vacuum cleaner (starting from a given random position) in a `N*N (N=10)` room to clean all the dirty tiles and rest at any one corner of the room. The cost of moving `1` step (`MR,ML,MU,MD`) is `2` units, and cost to clean a tile is `1` unit. We have to use **uninformed search techniques like BFS and IDS** to solve the problem.
 
-## File Description
+## File Description:
 
 This folder contains my solution for assignment 1 of on-campus Artificial Intelligence (BITS F444) course. The file description is as follows:
 
