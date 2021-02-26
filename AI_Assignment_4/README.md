@@ -1,5 +1,11 @@
 # AI_Assignment_4
 
+## Introduction/Problem Statement:
+
+`Programming assignment 4.pdf` describes a **constraint satisfaction problem (CSP)**. The problem task is to use **DFS-backtracking** and **DFS-backtracking with AC3 algorithms** to solve the CSP or report that the CSP has no solution. **Space and time complexity comparison between DFS-backtracking and DFS-backtracking with AC3 algorithms is also performed.**
+
+## File Description:
+
 This folder contains my solution for assignment 4 of on-campus Artificial Intelligence (BITS F444) course. The file description is as follows:
 
 1. `Programming Assignment 4.pdf`: It contains the problem statement, and functionalities to be included in the solution. It also specifies the design of the GUI interface.
@@ -14,9 +20,6 @@ This code requires Python3.7 and PyQt5. To run it, use the command:
 ```sh
 python GUI.py
 ``` 
-## Introduction/Problem Statement:
-
-`Programming assignment 4.pdf` describes a **constraint satisfaction problem (CSP)**. The problem task is to use **DFS-backtracking** and **DFS-backtracking with AC3 algorithms** to solve the CSP or report that the CSP has no solution. **Space and time complexity comparison between DFS-backtracking and DFS-backtracking with AC3 algorithms is also performed.**
 
 ## GUI Details:
 The overall GUI layout is as shown below.
