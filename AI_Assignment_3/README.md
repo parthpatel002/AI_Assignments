@@ -15,7 +15,7 @@ python GUI.py
 ``` 
 ## Introduction/Problem Statement:
 
-`Programming assignment 3.pdf` describes Align3, a custom tic-tac-toe board game. The problem task is to use Min-Max algorithm and Alpha-Beta Pruning alogorithm to make an intelligent agent to play Align3 against a human player. Space and time complexity comparison between Min-Max algorithm and Alpha-Beta Pruning alogorithm is also performed.
+`Programming assignment 3.pdf` describes Align3, a custom tic-tac-toe board game. The problem task is to use **Min-Max algorithm** and **Alpha-Beta Pruning algorithm** to make an intelligent agent to play Align3 against a human player. **Space and time complexity comparison between Min-Max algorithm and Alpha-Beta Pruning algorithm is also performed**.
 
 ## GUI Details:
 The overall GUI layout is as shown below.
