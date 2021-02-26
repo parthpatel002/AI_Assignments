@@ -1,5 +1,11 @@
 # AI_Assignment_6
 
+## Introduction/Problem Statement:
+
+`Programming assignment 6.pdf` describes a **Bayesian Network** modelling uncertainities of the environment. The problem task is to **compute markov blanket of any node in the Bayesian Network** and also **compute the required conditional probabilities of some variables given some other variables**.
+
+## File Description:
+
 This folder contains my solution for assignment 6 of on-campus Artificial Intelligence (BITS F444) course. The file description is as follows:
 
 1. `Programming Assignment 6.pdf`: It contains the problem statement, and functionalities to be included in the solution. It also specifies the design of the GUI interface.
@@ -13,9 +19,6 @@ This code requires Python3.7 and PyQt5. To run it, use the command:
 ```sh
 python gui.py
 ``` 
-## Introduction/Problem Statement:
-
-`Programming assignment 6.pdf` describes a Bayesian Network modelling uncertainities of the environment. The problem task is to compute markov blanket of any node in the Bayesian Network and also compute the required conditional probabilities of some variables given some other variables.
 
 ## GUI Details:
 The overall GUI layout is as shown below.
